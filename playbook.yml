@@ -1,6 +1,6 @@
 ---
 
-- hosts: develop1
+- hosts: all
   remote_user: root
   become: yes
   tasks: 
